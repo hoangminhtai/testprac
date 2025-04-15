@@ -10,8 +10,7 @@ public class Pageload {
         WebDriver driver = new ChromeDriver();
 
 
-        driver.get("https://www.example.com");
-
+        driver.get("https://chatsmith.io/login")
         
     }
 
